@@ -1,0 +1,8 @@
+E:\研究所学习资料\自然语言处理\natural_language_process\natural_language_process\bin\Debug\natural_language_process.exe
+E:\研究所学习资料\自然语言处理\natural_language_process\natural_language_process\bin\Debug\natural_language_process.pdb
+E:\研究所学习资料\自然语言处理\natural_language_process\natural_language_process\obj\x86\Debug\natural_language_process.main.resources
+E:\研究所学习资料\自然语言处理\natural_language_process\natural_language_process\obj\x86\Debug\natural_language_process.Properties.Resources.resources
+E:\研究所学习资料\自然语言处理\natural_language_process\natural_language_process\obj\x86\Debug\natural_language_process.exe
+E:\研究所学习资料\自然语言处理\natural_language_process\natural_language_process\obj\x86\Debug\natural_language_process.pdb
+E:\研究所学习资料\自然语言处理\natural_language_process\natural_language_process\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\研究所学习资料\自然语言处理\natural_language_process\natural_language_process\bin\Debug\natural_language_process.exe.config
